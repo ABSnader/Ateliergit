@@ -3,6 +3,6 @@ int main
 {
 int a,b;
 a=5;
-b=15;
+b=3;
 printf("\n a=%d et b=%d",a,b);
 }
